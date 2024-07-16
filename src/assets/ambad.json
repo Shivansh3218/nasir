@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Mango\n( Native )",
+    "inward": "0",
+    "outward": "0",
+    "balance": "0"
+  },
+  {
+    "name": "Mango ( Grafted - Kesar)",
+    "inward": "400",
+    "outward": "0",
+    "balance": "0"
+  },
+  {
+    "name": "Lemon ( Sai Sharbati)",
+    "inward": "0",
+    "outward": "0",
+    "balance": "0"
+  },
+  {
+    "name": "Sitafal\n( Native)",
+    "inward": "0",
+    "outward": "0",
+    "balance": "0"
+  },
+  {
+    "name": "Sitafal\n( Golden)",
+    "inward": "500",
+    "outward": "0",
+    "balance": "0"
+  },
+  {
+    "name": "Sitafal (Balanagar)",
+    "inward": "0",
+    "outward": "0",
+    "balance": "0"
+  },
+  { "name": "Awala", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Awala (Grafted)", "inward": "20", "outward": "0", "balance": "0" },
+  { "name": "Peru", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Peru (Sardar)", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Chincha", "inward": "59", "outward": "0", "balance": "0" },
+  {
+    "name": "Chincha (Grafted)",
+    "inward": "50",
+    "outward": "0",
+    "balance": "0"
+  },
+  { "name": "Jamun", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Jamun (Bardoli)", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Chikku", "inward": "63", "outward": "0", "balance": "0" },
+  { "name": "Orange", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Mosambi", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Dalimb", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Ramfal", "inward": "0", "outward": "0", "balance": "0" },
+  {
+    "name": "Drumstick (Koimb)",
+    "inward": "500",
+    "outward": "0",
+    "balance": "0"
+  },
+  {
+    "name": "Drumstick (ODC)",
+    "inward": "100",
+    "outward": "0",
+    "balance": "0"
+  },
+  { "name": "Papayya (15 No)", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Bamboo", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Karwand", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Arjun", "inward": "10", "outward": "0", "balance": "0" },
+  { "name": "Katesawar", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Karanj", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Kaduneem", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Bahava", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Kanchan", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "kadamb", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Bhendi", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Shirish", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Kokam", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Ain", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Pimpal", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Vad", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Tamhan", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Waval", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Umbar", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Palas", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Babhul", "inward": "300", "outward": "0", "balance": "0" },
+  { "name": "Bakul", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Shisam", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Kawath", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Bija", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Bel", "inward": "0", "outward": "0", "balance": "0" },
+  { "name": "Teak", "inward": "0", "outward": "0", "balance": "0" }
+]
